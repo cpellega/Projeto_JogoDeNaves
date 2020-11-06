@@ -1,5 +1,5 @@
 # Projeto_JogoDeNaves
-# Projeto Dio: Criando um Jogo da Naves
+
 ### Sobre
 Projeto foi criado a partir da aula "Construíndo o seu primeiro jogo de naves", do bootcamp JavaScript Game Developer, na [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One")
 
